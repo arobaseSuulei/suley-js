@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/11/69/8b/11698bde0a2ab72796c570fc698bbbf3.jpg" alt="Banner" style="width:100%; max-height:300px; object-fit:cover; border-radius:12px;" />
+  <img src="https://i.pinimg.com/1200x/11/69/8b/11698bde0a2ab72796c570fc698bbbf3.jpg" alt="Banner" style="width:20%; max-height:300px; object-fit:cover; border-radius:12px;" />
 </p>
 
 &nbsp;
@@ -21,10 +21,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width:100%; max-width:350px; border-radius:12px;" />
+      <img src="https://i.pinimg.com/1200x/11/69/8b/11698bde0a2ab72796c570fc698bbbf3.jpg" alt="GitHub Stats" style="width:100%; max-width:350px; border-radius:12px;" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" alt="Streak Stats" style="width:100%; max-width:350px; border-radius:12px;" />
+      <img src="https://i.pinimg.com/1200x/11/69/8b/11698bde0a2ab72796c570fc698bbbf3.jpg" alt="Streak Stats" style="width:100%; max-width:350px; border-radius:12px;" />
     </td>
   </tr>
 </table>
