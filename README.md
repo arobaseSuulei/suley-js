@@ -1,6 +1,7 @@
-<p align="center">
-  
-</p>
+## 🚀 About Me
+- 🔹 swe  
+- 🔹 Passion for data & data storytelling 
+- 🔹 Always exploring new tools & technologies 
 
 
 
@@ -8,7 +9,6 @@
 
 
 
----
 
 
  
@@ -28,10 +28,10 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" alt="epic-gojo" style="width:100%; max-width:400px;" />
+      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" style="width:100%; max-width:400px;" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/arobaseSuulei/metrics/blob/main/github-metrics.svg" alt="Metrics" style="width:100%; max-width:400px;" />
+      <img src="https://github.com/arobaseSuulei/metrics/blob/main/github-metrics.svg"  style="width:100%; max-width:400px;" />
     </td>
   </tr>
 </table>
