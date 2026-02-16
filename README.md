@@ -5,7 +5,11 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <p>swe and hero, storyteller with data</p>
+      <p>## 🚀 About Me
+- 🔹 swe  
+- 🔹 Passion for data & data storytelling 
+- 🔹 Always exploring new tools & technologies 
+      </p>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" width="100%" />
@@ -15,17 +19,12 @@
 
 
 
-<p align="center">
-  Backend dev | Data enthusiast | Always experimenting with cool stuff<br>
-  <em>Currently working on some top-secret projects (¬‿¬)</em>
-</p>
+
 
 ---
 
-## 🚀 About Me
-- 🔹 Backend engineer @ Netflix  
-- 🔹 Passion for data engineering & real-time analytics  
-- 🔹 Always exploring new tools & technologies  
+
+ 
 
 ---
 
@@ -39,29 +38,15 @@
 
 ---
 
-## 🛠️ Projects
-| Project | Description | Screenshot |
-|---------|-------------|------------|
-| Movie Analytics Dashboard | Tracks Netflix trends in real-time | ![Screenshot](https://via.placeholder.com/200x100.png?text=Dashboard) |
-| Personal Blog API | FastAPI + PostgreSQL backend | ![Screenshot](https://via.placeholder.com/200x100.png?text=Blog+API) |
-| ESP32 IoT Experiment | Small electronics & sensors projects | ![Screenshot](https://via.placeholder.com/200x100.png?text=ESP32) |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleyjs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
 ## ✉️ Contact
-- 📧 Email: souleymane@example.com  
-- 💼 LinkedIn: [suleyjs](https://www.linkedin.com/in/suleyjs)  
-- 🐦 Twitter: [@suleyjs](https://twitter.com/suleyjs)
+ 
+-  X: [@4ssulei](https://x.com/4ssulei)
 
 ---
 
 <p align="center">
-  Keep coding, keep experimenting… and maybe one day, the world will know your top-secret stuff. 😉
+  Keep building, keep sharing and be that hero
 </p>
