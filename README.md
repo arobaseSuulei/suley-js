@@ -1,6 +1,6 @@
 ## 🚀 About Me
 - 🔹 swe  
-- 🔹 Passion for data & data storytelling 
+- 🔹 Passion for data & data storytelling  
 - 🔹 Always exploring new tools & technologies 
 
 
