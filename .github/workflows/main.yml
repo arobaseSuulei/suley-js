@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: arobaseSuulei
+          template: classic
+          base: header, activity, community, repositories
