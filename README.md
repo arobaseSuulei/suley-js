@@ -8,7 +8,7 @@
       <p>swe and hero, storyteller with data</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.pngc" width="100%" />
+      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" width="100%" />
     </td>
   </tr>
 </table>
