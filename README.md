@@ -17,7 +17,7 @@ Here you can see about all my activity (even privates !)<br>
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" alt="epic-gojo" style="width:100%; max-width:400px;" />
+      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" style="width:100%; max-width:400px;" />
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/arobaseSuulei/metrics/blob/refs/heads/main/github-metrics.svg" alt="Metrics" style="width:100%; max-width:400px;" />
