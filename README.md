@@ -2,20 +2,7 @@
   
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <p>## 🚀 About Me
-- 🔹 swe  
-- 🔹 Passion for data & data storytelling 
-- 🔹 Always exploring new tools & technologies 
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.png" width="100%" />
-    </td>
-  </tr>
-</table>
+
 
 
 
