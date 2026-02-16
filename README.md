@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba3dcf84-98eb-4d91-b605-c86440f6c8ac" alt="banner" width="100%" />
+  
 </p>
 
-<h1 align="center">Hey there, I'm Souleymane! 👋</h1>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <p>swe and hero, storyteller with data</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/arobaseSuulei/suley-js/blob/main/868bf98f9266ef7d6482bd9f73b9e5ca-removebg-preview.pngc" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 
 <p align="center">
   Backend dev | Data enthusiast | Always experimenting with cool stuff<br>
