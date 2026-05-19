@@ -1,5 +1,5 @@
 ## 🚀 About Me
-- 🔹 swe  
+- 🔹 soft / hard
 - 🔹 Passionate for robotics & physical AI
 - 🔹 Always exploring new tools & technologies 
 
